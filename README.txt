@@ -1,0 +1,1 @@
+I just did the most part of this project. You can see that I start from completeing from here (comment) in js part.
